@@ -1,0 +1,4 @@
+train: /content/vehicle_dataset/dataset/vehicle_dataset/train/images #Paths were selected for Google Colab Environment
+val: /content/vehicle_dataset/dataset/vehicle_dataset/valid/images #Paths were selected for Google Colab Environment
+nc: 6
+names: [car, threewheel, bus, truck, motorbike, van]
